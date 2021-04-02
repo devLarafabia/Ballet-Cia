@@ -1,0 +1,60 @@
+h1{
+  text-align: center;
+  color: burlywood;
+}
+
+.Fundo{
+  background-image: url('imagens/fundo.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  background-attachment:fixed;
+}
+
+#caixaInf{
+  background-color:white;
+  color:darksalmon;
+  text-align:center;
+  height: 400px;
+  padding-top: 10px;
+  margin: 200px;
+  border: 5px solid rosybrown;
+  font-size: 20px;
+
+}
+p{
+  color:rgb(32, 34, 36);
+  font-size: 20px;
+  margin-top: auto;
+
+}
+
+a{
+  background-color:lightcoral;
+  color: aliceblue;
+  border: none;
+  padding: 10px 10px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+input { 
+  outline: none;
+  font-size: 20px;
+  
+ 
+ }
+ textarea{
+   outline: none;
+   font-size: 20px;
+ }
+
+ .Enviar{
+   color: palegreen; 
+ }
+
+ #texto{
+   color:#000;
+ }
